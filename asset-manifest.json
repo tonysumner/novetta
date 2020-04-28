@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tonysumner/novetta/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tonysumner/novetta/static/js/main.6da88c65.chunk.js",
+    "main.js.map": "/tonysumner/novetta/static/js/main.6da88c65.chunk.js.map",
+    "runtime-main.js": "/tonysumner/novetta/static/js/runtime-main.1b836d08.js",
+    "runtime-main.js.map": "/tonysumner/novetta/static/js/runtime-main.1b836d08.js.map",
+    "static/js/2.2ae8715e.chunk.js": "/tonysumner/novetta/static/js/2.2ae8715e.chunk.js",
+    "static/js/2.2ae8715e.chunk.js.map": "/tonysumner/novetta/static/js/2.2ae8715e.chunk.js.map",
+    "index.html": "/tonysumner/novetta/index.html",
+    "precache-manifest.1f53432cd2741f5b429eeb5f3797b3c9.js": "/tonysumner/novetta/precache-manifest.1f53432cd2741f5b429eeb5f3797b3c9.js",
+    "service-worker.js": "/tonysumner/novetta/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/tonysumner/novetta/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2ae8715e.chunk.js.LICENSE.txt": "/tonysumner/novetta/static/js/2.2ae8715e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tonysumner/novetta/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b836d08.js",
+    "static/js/2.2ae8715e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6da88c65.chunk.js"
+  ]
+}
